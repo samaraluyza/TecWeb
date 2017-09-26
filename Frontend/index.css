@@ -1,0 +1,30 @@
+img {
+  position: absolute;
+  top: 25px;
+  left: 25px;
+}
+.image1{
+    width: 254px;
+    height: 174px;
+    position: absolute;
+    top: 176px;
+    left: 84px;
+ }
+ .toBottom{
+ 	position: absolute;
+ 	left: 800px;
+ 	top: 100px;
+ }
+ .status{
+ 	position: absolute;
+ 	left: 500px;
+ 	top: 200px;
+ }
+ .background{
+ 	position: absolute;
+ 	left: 480px;
+ 	top: 190px;
+ 	height: 100px;
+ 	width: 220px;
+ 	background-color: rgba(28, 250, 20, 1);
+ }
